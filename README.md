@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WhatAmISolving
-- 👀 I’m interested in Blockchain technology and in love with decentralization 
-- 🌱 I’m currently learning C++ in Codecademy
+- 👀 I’m interested in Software Development and Blockchain technology
+- 🌱 I’m currently exploring Crio.do, a project based learning platform to learn software dvelopment and change my carreer
 - 💞️ I’m looking to learn and collaborate on new ideas, internship, job oppurtunities
 - 📫 DM @ganeshs_kumar
 - #Knowledge sharing #Giving back to people
