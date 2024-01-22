@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WhatAmISolving
-- 👀 I’m interested in Software Development and Blockchain technology
-- 🌱 I’m currently exploring Crio.do, a project based learning platform to learn software dvelopment and change my carreer
+- 👀 I’m interested in Cloud technologies, Database, ETL, Software Development and Blockchain technology
+- 🌱 I’m currently looking for Snowflake Developer/ETL jobs
 - 💞️ I’m looking to learn and collaborate on new ideas, internship, job oppurtunities
-- 📫 DM @ganeshs_kumar
+- 📫 DM @ganeshkumar2023
 - #Knowledge sharing #Giving back to people
 
 <!---
